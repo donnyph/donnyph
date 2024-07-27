@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================================
 
 Automation and Robotics Enthusiast
+Interest in Electrical and Control Systems
 ----------------------------------
 
 *   🖥️  See my portfolio at [MyPortFolio](http://donnyph.github.io/)
